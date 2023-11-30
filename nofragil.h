@@ -30,7 +30,7 @@ class NOFragil: public paquete{
 	public:
 	//CONSTRUCTORES
 	NOFragil(): tax(0), relleno(0), paquete(){};
-	NOFragil(float weight, string cat, int cant,bool rel, float vol): paquete(weight, cat, cant), relleno(rel), volumen(vol){}; //Aqui con que lo inicializo??? ayuda
+	NOFragil(float weight, string cat, int cant,bool rel, float vol): paquete(weight, cat, cant), relleno(rel), volumen(vol){}; 
 	
 	/**
 	* getter volumen
