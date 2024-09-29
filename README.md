@@ -1,6 +1,5 @@
 # TC1033
 # Contexto
-Una persona(usuario) esta realizando pe
 El objetivo principal del algoritmo es crear usuarios, para que puedan ingresar pedidos, y sepan cuanto sera el cobro por los impuestos. Los atributos de la persona incluyen informacion, como su nombre, apellido, y numero; como metodo se creara un usuario por persona. En cuanto al paquete, incluye atributos tales como su peso, cantidad de objetos adentro, y categoria; tambien se divide en herencias entre Fragil y No Fragil, cada una con su respectivo metodo para calcular . 
 
 # Funcionalidad
